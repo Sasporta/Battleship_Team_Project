@@ -14,7 +14,7 @@ Project is created with:
 * Express
 
 ## My Part:
-My exclusive part in this project was setting the connection between the players using socket.io.
+My exclusive part in this project was setting the connection between the players using socket.io.  
 Additionally, As the project progressed I contributed a great deal to the front-end view and functionality,
 along side other group members.
 
