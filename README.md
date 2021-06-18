@@ -1,8 +1,8 @@
 # Battleship_Team_Project
 
 ## Goals and purpose:
-The goal of this project was to create an app while first experiencing how to write code as a team. 
-Overcome the challenges of setting common goals, using a shared repository and finally, properly dividing and managing all tasks.
+The goal of this project was to create an app while first experiencing how to write code as a team.  
+Overcome the challenges of setting common goals, using a shared repository and finally, properly dividing and managing all tasks.  
 
 ## Technologies:
 Project is created with:
